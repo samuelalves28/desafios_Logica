@@ -1,0 +1,4 @@
+﻿Faça um programa para ler o valor do diâmetro de um círculo e, com isso, calcular o seu raio. 
+Depois mostrar o valor da área deste círculo com quatro casas decimais conforme exemplos:
+
+Fórmula da área: area = π . raio^2 Considere o valor de π = 3.14159
