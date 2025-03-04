@@ -1,5 +1,6 @@
 ﻿using desafios_Logica._01;
 using desafios_Logica._02;
+using desafios_Logica._03;
 
 class Program
 {
@@ -9,6 +10,7 @@ class Program
         Console.WriteLine("--------------------");
         Console.WriteLine("1 - Calculo triangulo X e Y.");
         Console.WriteLine("2 - Calculo diametro do circulo");
+        Console.WriteLine("3 - Calcule a diferença");
         Console.WriteLine("--------------------");
 
         Console.WriteLine("");
@@ -28,6 +30,9 @@ class Program
                 break;
             case '2':
                 Execute02.Executar();
+                break;      
+            case '3':
+                Execute03.Executar();
                 break;
 
         }
